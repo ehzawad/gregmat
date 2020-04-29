@@ -59,6 +59,7 @@
 29. **taciturn** - saying little
 
 30. **wary** - feeling or showing caution about possible dangers
+
 ### group 2
 
 1. **adulterate** - render poorer in quality by adding another substance
@@ -120,6 +121,7 @@
 29. **incredulous** - unwilling or unable to believe something
 
 30. **ingenuous** - innocent, naive or unsuspecting
+
 ### group 3
 
 1. **abate** - become less intense or widespread, remove or reduce law
@@ -150,7 +152,7 @@
 
 14. **canonize** - treat of great significance, place in or regard as belonging to a canon of literacy or artistic works
 
-15 **censure** - express severe disapproval, especially in formal statement
+15. **censure** - express severe disapproval, especially in formal statement
 
 16. **chicanery** - use of deception or subterfuge
 
@@ -181,6 +183,7 @@
 29. **prodigal** - spending money recklessly
 
 30. **verbose** - using or expressed in more words that are needed
+
 ### group 4
 
 1. **abstain** - restrain oneself from doing
@@ -242,6 +245,7 @@
 29. **tranquil** - free from disturbance, calm
 
 30. **vacillate** - waver between different opinions or actions, be indecisive
+
 ### group 5
 
 1. **aloof** - not friendly, distant, detached
@@ -303,6 +307,7 @@
 29. **weary** - tired(extreme)
 
 30. **zealous** - showing zeal, fervent, passionate, fervid, ardent
+
 ### group 6
 
 1. **admonish** - warn or reprimand someone firmly
@@ -364,6 +369,7 @@
 29. **venal** - bribery, corrupt
 
 30. **venerate** - regard with great respect, reverence
+
 ### group 7
 
 1. **appease** - pacify or placate, assuage or satisfy
@@ -425,6 +431,7 @@
 29. **stern** - serious, strict and severe
 
 30. **tendentious** - intending to promote a point of view(controversial one)
+
 ### group 8
 
 1. **accentuate** - make more noticeable or prominent
@@ -486,6 +493,7 @@
 29. **utilitarian** - designed to be useful or practical rather
 
 30. **vapid** - offering nothing that is stimulating or challenging/ bland
+
 ### group 9
 
 1. **boorish** - rough and bad-mannered, coarse
@@ -547,6 +555,7 @@
 29. **trifling** - unimportant or trivial
 
 30. **turbulent** - characterized by conflict, disorder/ not stable
+
 ### group 10
 
 1. **acumen** - the ability to make good judgments and take quick decisions
@@ -608,6 +617,7 @@
 29. **tout** - attempt to sell/ attempt to persuade people of the merits of/ informer
 
 30. **wane** - decrease in vigor or extent, become weaker
+
 ### group 11
 
 1. **abhor** - regard with disgust and hatred
@@ -669,6 +679,7 @@
 29. **spartan** - austerity or lack of comfort or luxury/ harsh/ hard/ frugal
 
 30. **truculent** - eager to argue; aggressively defiant
+
 ### group 12
 
 1. **acrimonious** - angry and bitter
@@ -730,6 +741,7 @@
 29. **verisimilitude** - the appearance of being true or real
 
 30. **vitiate** - spoil or impair thee quality or efficiency of something
+
 ### group 13
 
 1. **affinity** - a natural liking for something/ resemblance
@@ -791,6 +803,7 @@
 29. **subtle** - delicately complex/ making use of clever and indirect methods to achieve something
 
 30. **superficial** - appearing to be true but not/ cursory/ not through
+
 ### group 14
 
 1. **acquiesce** - accept something reluctantly without protest
@@ -853,6 +866,7 @@ of **skin** cells and other body tissues
 29. **versatile** - adoptable to many different functions or activities
 
 30. **wayward** - difficult to control or predict because of willful or perverse behavior
+
 ### group 15
 
 1. **alienate** - make someone feel isolated or estranged
@@ -915,6 +929,7 @@ of **skin** cells and other body tissues
 
 30. **violate** - (of a substance) easily evaporated at normal temperatures
 / liable to change rapidly and unpredictably, especially for the worse
+
 ### group 16
 
 1. **antedate** - precede in time/ come before in date
@@ -976,6 +991,7 @@ of **skin** cells and other body tissues
 29. **visionary** - thinking about or planning the future with imagination
 
 30. **vociferous** - expressing by vehement opinions, loud and forceful/ outspoken
+
 ### group 17
 
 1. **acclaim** - praise enthusiastically and publicly
@@ -1037,6 +1053,7 @@ of **skin** cells and other body tissues
 29. **upbraid** - find fault with/ scold
 
 30. **vexation** - the state of being annoyed, frustrated or worried
+
 ### group 18
 
 1. **abet** - encourage or assist someone to do something wrong
@@ -1098,6 +1115,7 @@ of **skin** cells and other body tissues
 29. **unseemly** - not proper or appropriate
 
 30. **veritable** - used for emphasis, often to quality a metaphor
+
 ### group 19
 
 1. **acolyte** - an assistant or follower
@@ -1159,6 +1177,7 @@ of **skin** cells and other body tissues
 29. **transitory** - not permanent
 
 30. **viable** - capable of working successfully feasible
+
 ### group 20
 
 1. **abreast** - side by side and facing the same way
@@ -1281,6 +1300,7 @@ of **skin** cells and other body tissues
 29. **supple** - flexible/ easily manipulated
 
 30. **valor** - great courage in the face of danger
+
 ### group 22
 
 1. **cumbersome** - unwieldy, unmanageable, complicated
@@ -1342,6 +1362,7 @@ of **skin** cells and other body tissues
 29. **falter** - lose strength or momentum/ move hesitantly
 
 30. **chastise** - rebuke or reprimand severely, punish
+
 ### group 23
 
 1. **intermittent** - sporadic, not continuous or steady
@@ -1403,6 +1424,7 @@ of **skin** cells and other body tissues
 29. **commence** - begin
 
 30. **neutralize** - counteract, offset, counterbalance
+
 ### group 24
 
 1. **exorcise** - completely remove from one's mind or memory(unpleasant)
@@ -1464,6 +1486,7 @@ of **skin** cells and other body tissues
 29. **disinterested** - unbiased
 
 30. **buttress** - support/ increase the strength of or justification for
+
 ### group 25
 
 1. **bereft** - deprived of or lacking (something)/ sad and lonely
@@ -1525,6 +1548,7 @@ of **skin** cells and other body tissues
 29. **play** - cunning plan/ an activity done for amusement
 
 30. **captious** - tending to find fault or raise petty objections
+
 ### group 26
 
 1. **lugubrious** - looking or sending sad and dismal
@@ -1586,6 +1610,7 @@ of **skin** cells and other body tissues
 29. **supplant** - supersede and replace
 
 30. **lampoon** - publicly criticize someone by using ridicule, irony or sarcasm
+
 ### group 27
 
 1. **bombastic** - high-sounding but with little meaning, inflated
