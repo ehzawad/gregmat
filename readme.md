@@ -150,7 +150,7 @@
 
 14. **canonize** - treat of great significance, place in or regard as belonging to a canon of literacy or artistic works
 
-15**.** censure - express severe disapproval, especially in formal statement
+15 **censure** - express severe disapproval, especially in formal statement
 
 16. **chicanery** - use of deception or subterfuge
 
@@ -193,7 +193,7 @@
 
 5. **disparate** - essentially different in kind, notable to be compared, containing elements very different from one another
 
-6**.** emulate - match or surpass a person or achievement, typically by imitation
+6. **emulate** - match or surpass a person or achievement, typically by imitation
 
 7. **enervate** - make someone feel drained of energy, lacking in energy
 
