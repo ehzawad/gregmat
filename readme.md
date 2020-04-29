@@ -319,7 +319,7 @@
 
 7. **chauvinistic** - displaying aggressive patriotism, displaying excessive support for their own cause, group or sex
 
-8**.** connoisseur - an expert judge in matters of taste
+8. **connoisseur** - an expert judge in matters of taste
 
 9. **dissemble** - conceal or disguise one's true feelings or beliefs
 
