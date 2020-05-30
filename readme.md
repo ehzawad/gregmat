@@ -1672,3 +1672,67 @@ of **skin** cells and other body tissues
 29. **heady** - intoxicating / having a strong or exhilarating effect
 
 30. **exigent** - pressing, demanding
+
+
+### group 28
+
+1. **quibble** - a slight criticism about a trivial matter; adverse comment; nitpicking
+
+2. **gauche** - lacking ease or grace; unsophisticated and socially awkward; inelegant; ungainly
+
+3. **willy** - skilled at gaining an advantage, especially deceitfully; clever; shrewd, crafty
+
+4. **sophistry** - the use of fallacious arguments, especially with the intention of deceiving; specious arguments; fallacious argument; sophism; casuistry
+
+5. **agitated** - feeling or appearing troubled or nervous; perturbed; flustered; unnerved; ruffled; rattled
+
+6. **quarantined** - isolated
+
+7. **coy** - (especially with reference to a woman) making a pretense of shyness or modesty that is intended to be alluring; reluctant to give details, especially about something regarded as sensitive; arch; simpering; demure; modest
+
+8. **hysterical** - deriving from or affected by uncontrolled extreme emotion; overwrought; unrestrained; frenzied;  (informal) extremely funny
+
+9. **recant** - say that one no longer holds an opinion or belief, especially one considered heretical; disavow; forswear; change one's mind; retract
+
+10. **quandary** - a state of perplexity or uncertainty over what to do in a difficult situation; a practical dilemma; impasse; stalemate
+
+11. **affront** - an action or remark that causes outrage or offense; insult; offense; slight; snub; slur
+
+12. **endemic** - (of a disease or social condition) found particularly in a specific area or group; (of a plant or animal) native and restricted to a certain place
+
+13. **abstract** - consider (something) theoretically or separately from something else; extract or remove (something); used euphemistically to say that stolen something; (abstract oneself) withdraw
+
+14. **burnish** - polish up; buff up; enhance or perfect (something such as a reputation or a skill)
+
+15. **disperse** - break up; split up; dissipate; scatter; go into different direction
+
+16. **enmity** - the state or feeling of being actively opposed or hostile to someone or something; animosity; antipathy; animus; feud; discord; acrimony
+
+17. **retiring** - shy and fond of being on one's own; diffident, shrinking; self-effacing; unassuming
+
+18. **ravage** - lay waste; devastate; leave in ruins; wreak havoc on; leave desolate; pillage
+
+19. **inchoate** - beginning; rudimentary; confused or incoherent
+
+20. **impudent** - not showing due respect for another person; impertinent; brazen; cheeky; presumptuous
+
+21. **redoubtable** - (of a person) formidable, especially as an opponent; fearsome; awe-inspiring
+
+22. **shrill** - high-pitched; piercing; screeching
+
+23. **deprecate** - express disapproval of; frown on; object to
+
+24. **disdain** - scorn; deride; regard with contempt; sneer at; spurn; rebuff
+
+25. **quash** - reject or void, especially by legal procedure; cancel; rescind; suppress; put to an end; stamp out
+
+26. **distend** - swell or cause to swell by pressure from inside; bulge; enlarge; puff out/up; blow up/out
+
+27. **penchant** - liking; fondness; preference; inclination; bent; predilection; proclivity
+
+28. **abeyance** ((PHRASES)*hold something in abeyance*) - a state of suspension; a state of dormancy; a state of latency; pending; deferred; put off; postponed
+
+29. **august** - respected and impressive; distinguished; eminent; venerable; hallowed; illustrious; esteemed; exalted; of distinction; of repute; aristocratic; imposing
+
+30. **substantiate** - prove; show to be true; give substance to; support; justify; vindicate; corroborate; endorse; give credence to; vouch for, attest to
+
