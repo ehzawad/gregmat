@@ -1,6 +1,6 @@
 ### group 1
 
-1. **abound** - exist in large numbers or amounts
+- **abound** - exist in large numbers or amounts
 
 > **PHRASAL**
 >
@@ -17,7 +17,7 @@
 
 > abounding(adjective) - abundant
 
-2. **amorphous** - without a clearly defined shape or form
+- **amorphous** - without a clearly defined shape or form
 
 > *an amorphous gray mass which proved to be mashed potato*
 >
@@ -29,7 +29,7 @@
 >
 > amorphousness
 
-3. **austere** - strict in manner, having no comforts or luxuries
+- **austere** - strict in manner, having no comforts or luxuries
 
 > *he was a conscientious and outwardly austere man*
 >
@@ -43,7 +43,7 @@
 >
 > PLAIN, simple, basic, functional, modest, unadorned, undecorated, unornamented, unembellished, unostentatious, unfurnished, uncluttered, unfussy, without frills, subdued, muted, restrained; STARK, bleak, bare, bald, clinical, somber, severe, spartan, ascetic; **informal** no frills. **ANTONYMS** ornate
 
-4. **belie** - fail to give true impression of something, contradict, fail to justify, betray
+- **belie** - fail to give true impression of something, contradict, fail to justify, betray
 
 > *the expression in his eyes belied his easy manner*
 >
@@ -53,7 +53,7 @@
 >
 > CONCEAL, cover, disguise, misrepresent, falsify, distort, wrap, put a spin on, color; give a false idea of, give a false account of. **ANTONYMS** reveal
 
-5. **capricious** - sudden change of mood, unpredictable, fickle
+- **capricious** - sudden change of mood, unpredictable, fickle
 
 > *the capricious workings of fate*
 >
@@ -66,7 +66,7 @@
 >
 > capriciousness
 
-6. **cerebral** - of the cerebrum of the brain, intellectual rather than emotional or physical
+- **cerebral** - of the cerebrum of the brain, intellectual rather than emotional or physical
 
 > *the cerebral cortex*
 >
@@ -76,7 +76,7 @@
 >
 > cerebrally
 
-7. **congenial** - (of a person) pleasant because of a personality, qualities, or interests that are similar to one's own; (of a thing) pleasant or agreeable because suited to one's taste or inclination
+- **congenial** - (of a person) pleasant because of a personality, qualities, or interests that are similar to one's own; (of a thing) pleasant or agreeable because suited to one's taste or inclination
 
 > *I was working with a bunch of very congenial people*
 >
@@ -92,7 +92,7 @@
 >
 > congenially
 
-8. **conspicuous** - standing out so as to be clearly visible, attracting notice or attention
+- **conspicuous** - standing out so as to be clearly visible, attracting notice or attention
 
 > **PHRASAL**
 >
@@ -101,15 +101,15 @@
 > EASILY SEEN, clear, visible, standing out, noticeable, observable, discernible, perceptible, perceivable, detectable; OBVIOUS, manifest, evident, apparent, marked, pronounced, prominent, outstanding, patent, crystal clear, as clear as crystal; vivid, striking, dramatic, eye-catching, flagrant, ostentatious, overt, blatant, as plain as a pikestaff, staring one in the face, writ large, as plain as day; distinct, recognizable, distinguishable, unmistakable, inescapable; **informal** as plain as the nose on one's face, standing/ sticking out like a sore thumb, standing/sticking out a mile. **ANTONYMS** inconspicuous
 
 
-9. **cursory** - hasty and therefore not through or detailed
+- **cursory** - hasty and therefore not through or detailed
 
-10. **daunting** - difficult to deal with, discourage through fear
+- **daunting** - difficult to deal with, discourage through fear
 
-11. **deify** - worship or regard as a god
+- **deify** - worship or regard as a god
 
-12. **didactic** - instructive, particularly so as to appear patronizing
+- **didactic** - instructive, particularly so as to appear patronizing
 
-13. **disseminate** - spread widely
+- **disseminate** - spread widely
 
 14. **feasible** - possible to do easily or conveniently
 
