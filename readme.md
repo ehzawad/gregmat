@@ -14,7 +14,7 @@
 > **rear** pullulate with
 
 >**DERIVATIVES**
-
+>
 > abounding(adjective) - abundant
 
 - **amorphous** - without a clearly defined shape or form
@@ -24,7 +24,7 @@
 > SHAPELESS, formless, unformed, unshaped, structureless, unstructured, indeterminate, indefinite, vague, nebulous  **ANTONYMS** shaped; definite
 
 >**DERIVATIVES**
-
+>
 > amorphously
 >
 > amorphousness
