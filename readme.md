@@ -79,7 +79,7 @@
 
     > *I was working with a bunch of very congenial people*
     >
-    > - **LIKE-MINDED**, compatible, kindred, well suited, easy to get along with; COMPANIONABLE, sociable, sympathetic, comradely, convivial, neighborly, hospitable, genial, personable, agreeable, friendly, pleasant, likable, kindly, pleasing, amiable, nice, good-natured; **FRENCH** sympathique; **ITALIAN & SPANISH** simpatico. **ANTONYMS** disagreeable, incompatible
+    > - **LIKE-MINDED**, compatible, kindred, well suited, easy to get along with; **COMPANIONABLE**, sociable, sympathetic, comradely, convivial, neighborly, hospitable, genial, personable, agreeable, friendly, pleasant, likable, kindly, pleasing, amiable, nice, good-natured; **FRENCH** sympathique; **ITALIAN & SPANISH** simpatico. **ANTONYMS** disagreeable, incompatible
 
     > *Charles found himself in a fairly congenial environment*
     >
@@ -97,7 +97,7 @@
     >
     > conspicuous by one's absence - obviously not present in a place where one should be: **government members were conspicuous by their absence**
 
-    > - **EASILY SEEN**, clear, visible, standing out, noticeable, observable, discernible, perceptible, perceivable, detectable; OBVIOUS, manifest, evident, apparent, marked, pronounced, prominent, outstanding, patent, crystal clear, as clear as crystal; vivid, striking, dramatic, eye-catching, flagrant, ostentatious, overt, blatant, as plain as a pikestaff, staring one in the face, writ large, as plain as day; distinct, recognizable, distinguishable, unmistakable, inescapable; **informal** as plain as the nose on one's face, standing/ sticking out like a sore thumb, standing/sticking out a mile. **ANTONYMS** inconspicuous
+    > - **EASILY SEEN**, clear, visible, standing out, noticeable, observable, discernible, perceptible, perceivable, detectable; **OBVIOUS**, manifest, evident, apparent, marked, pronounced, prominent, outstanding, patent, crystal clear, as clear as crystal; vivid, striking, dramatic, eye-catching, flagrant, ostentatious, overt, blatant, as plain as a pikestaff, staring one in the face, writ large, as plain as day; distinct, recognizable, distinguishable, unmistakable, inescapable; **informal** as plain as the nose on one's face, standing/ sticking out like a sore thumb, standing/sticking out a mile. **ANTONYMS** inconspicuous
 
 
 - **cursory** - hasty and therefore not through or detailed
