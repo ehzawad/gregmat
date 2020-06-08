@@ -65,6 +65,32 @@
     >
     > capriciousness
 
+
+    ###### CHOOSE THE RIGHT WORD
+
+    **inconstant, changeable, capricious, fickle**
+
+    These words all indicate that someone or something is liable to change and cannot be relied upon.
+
+    > a widely held belief that women were by nature *inconstant*
+
+    > experienced *changeable* moods and panic attacks
+    >
+    > conflicting and *changeable* political objectives
+    >
+    > outlook for tomorrow: *changeable* with rain at times
+
+    > it was hopeless to try and argue with her *capricious* husband
+    >
+    > a *capricious* and often brutal administration
+
+    > the *fickle* Viennese public had once flocked to hear Mozart
+    >
+    > A *fickle* lover
+    >
+    > men are so *fickle*, always on the lookout for someone new
+
+
 - **cerebral** - of the cerebrum of the brain, intellectual rather than emotional or physical
 
     > *the cerebral cortex*
@@ -101,6 +127,26 @@
 
 
 - **cursory** - hasty and therefore not through or detailed
+
+    > *a cursory inspection*
+    >
+    > - **PERFUNCTORY**, desultory, casual, superficial, token, uninterested, halfhearted, inattentive, unthinking, offhand, mechanical, automatic, routine; **HASTY**, quick, hurried, rapid, brief, passing, fleeting, summary, sketchy, careless, slapdash
+
+    > **DERIVATIVES**
+    >
+    > cursorily
+    >
+    > cursoriness
+
+    ###### WORD TOOLKIT (incomplete, cursory, vague)
+
+    > incomplete information, incomplete picture, incomplete knowledge, incomplete work, incomplete sentence
+
+    > cursory glance, cursory examination, cursory reading, cursory reading, cursory inspection, cursory investigation
+
+    > vague notion, vague memory, vague promises, vague reference, vague answers
+
+
 
 - **daunting** - difficult to deal with, discourage through fear
 
