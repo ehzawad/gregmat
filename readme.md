@@ -59,12 +59,11 @@
     >
     > - **FICKLE**, inconstant, changeable, variable, unstable, mercurial, volatile, erratic, vacillating, irregular, inconsistent, fitful, arbitrary; impulsive, temperamental, wild, ungovernable; whimsical, fanciful, flighty,wayward, quirky, faddish; unpredictable, random, chance, haphazard. **ANTONYMS** stable, consistent
 
-
-> **DERIVATIVES**
->
-> capriciously
->
-> capriciousness
+    > **DERIVATIVES**
+    >
+    > capriciously
+    >
+    > capriciousness
 
 - **cerebral** - of the cerebrum of the brain, intellectual rather than emotional or physical
 
