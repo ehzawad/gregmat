@@ -1,194 +1,64 @@
 ### group 1
 
-- **abound** - exist in large numbers or amounts
+1. **abound** - large numbers or amounts
 
-    > **PHRASAL**
-    >
-    > abound with (abound in)
-    >
-    > *a beautiful stream which abounded with trout and eels*
-    >
-    > - **BE FULL WITH**, overflow with, teem with, be packed with, be crowded with, be thronged with, be jammed with, be alive with, be overrun with, swarm with, bristle with, be bristling with, be infested with, be thick with;
-    > **informal** be crawling with, be lousy with, be stuffed with, be jam-packed with, be chockablock with, be chock-full of;
-    > **British informal** be heaving with;
-    > **rear** pullulate with
+2. **amorphous** - without a clearly defined shape or form
 
-    >**DERIVATIVES**
-    >
-    > abounding(adjective) - abundant
+3. **austere** - strict in manner, having no comforts or luxuries
 
-- **amorphous** - without a clearly defined shape or form
+4. **belie** - fail to give true impression of something, contradict, fail to justify
 
-    > *an amorphous gray mass which proved to be mashed potato*
-    >
-    > - **SHAPELESS**, formless, unformed, unshaped, structureless, unstructured, indeterminate, indefinite, vague, nebulous  **ANTONYMS** shaped; definite
+5. **capricious** - sudden change of mood, unpredictable, fickle
 
-    >**DERIVATIVES**
-    >
-    > amorphously
-    >
-    > amorphousness
+6. **cerebral** - of the cerebrum of the brain, intellectual rather than physical
 
-- **austere** - strict in manner, having no comforts or luxuries
+7. **congenial** - pleasant or agreeable because suited to one's taste
 
-    > *he was a conscientious and outwardly austere man*
-    >
-    > - **SEVERE**, stern, strict, harsh, unfeeling, stony, steely, flinty, dour, grim, cold, frosty, frigid, icy, chilly, unemotional, unfriendly, formal, stiff, stuffy, reserved, remote, distant, aloof, forbidding, mean-looking, grave, solemn, serious, unsmiling, unsympathetic, unforgiving, uncharitable; hard, rigorous, stringent, unyielding, unbending, unrelenting, inflexible, illiberal, no-nonsense; **informal** hard-boiled, hard-nosed. **ANTONYMS** genial
+8. **conspicuous** - clearly visible, attracting notice or attention
 
-    > *I still enjoy this austere and disciplined life*
-    >
-    > - **STRICT**, self-denying, self-abnegating, moderate, temperate, sober, simple, frugal, spartan, restrained, self-restrained, self-disciplined, non-indulgent, ascetic, puritanical, self-sacrificing, hair-shirt, abstemious, abstinent, celibate, chaste, continent; moral, upright. **ANTONYMS** immoderate
+9. **cursory** - hasty and therefore not through or detailed
 
-    > *the buildings around me were understated and austere*
-    >
-    > - **PLAIN**, simple, basic, functional, modest, unadorned, undecorated, unornamented, unembellished, unostentatious, unfurnished, uncluttered, unfussy, without frills, subdued, muted, restrained; STARK, bleak, bare, bald, clinical, somber, severe, spartan, ascetic; **informal** no frills. **ANTONYMS** ornate
+10. **daunting** - difficult to deal with, discourage through fear
 
-- **belie** - fail to give true impression of something, contradict, fail to justify, betray
+11. **deify** - worship or regard as a god
 
-    > *the expression in his eyes belied his easy manner*
-    >
-    > - **CONTRADICT**, be at odds with, call into questions, give the lie to, show/prove to be false; disprove, debunk, discredit, explode, knock the bottom out of; **informal** shoot full of holes. **ANTONYMS** testify to
+12. **didactic** - instructive, particularly so as to appear patronizing
 
-    > *he made a lighthearted speech which belied his deep disappointment*
-    >
-    > - **CONCEAL**, cover, disguise, misrepresent, falsify, distort, wrap, put a spin on, color; give a false idea of, give a false account of. **ANTONYMS** reveal
+13. **disseminate** - spread widely
 
-- **capricious** - sudden change of mood, unpredictable, fickle
+14. **feasible** - possible to do easily or conveniently
 
-    > *the capricious workings of fate*
-    >
-    > - **FICKLE**, inconstant, changeable, variable, unstable, mercurial, volatile, erratic, vacillating, irregular, inconsistent, fitful, arbitrary; impulsive, temperamental, wild, ungovernable; whimsical, fanciful, flighty, wayward, quirky, faddish; unpredictable, random, chance, haphazard. **ANTONYMS** stable, consistent
+15. **flout** - openly disregard, mock, scoff
 
-    > **DERIVATIVES**
-    >
-    > capriciously
-    >
-    > capriciousness
+16. **homogeneous** - of the same kind
 
+17. **humdrum** - lacking excitement or variety; boringly monotonous
 
-    ###### CHOOSE THE RIGHT WORD
+18. **insipid** - tasteless, lacking interest
 
-    **inconstant, changeable, capricious, fickle**
+19. **loquacious** - talkative
 
-    These words all indicate that someone or something is liable to change and cannot be relied upon.
+20. **misanthropic** - having or showing dislike of other people
 
-    > a widely held belief that women were by nature *inconstant*
+21. **misnomer** - a wrong or inaccurate name or designation
 
-    > experienced *changeable* moods and panic attacks
-    >
-    > conflicting and *changeable* political objectives
-    >
-    > outlook for tomorrow: *changeable* with rain at times
+22. **negligent** - failing to take proper care over something
 
-    > it was hopeless to try and argue with her *capricious* husband
-    >
-    > a *capricious* and often brutal administration
+23. **obsequious** - obedient to an excessive or servile degree
 
-    > the *fickle* Viennese public had once flocked to hear Mozart
-    >
-    > A *fickle* lover
-    >
-    > men are so *fickle*, always on the lookout for someone new
+24. **placate** - make less angry
 
+25. **proclivity** - a tendency to choose or do something regularly
 
-- **cerebral** - of the cerebrum of the brain, intellectual rather than emotional or physical
+26. **puerile** - childishly silly
 
-    > *the cerebral cortex*
-    >
-    > *photography is a cerebral process*
+27. **quixotic** - extremely idealistic, unrealistic, impractical
 
-    > **DERIVATIVES**
-    >
-    > cerebrally
+28. **spendthrift** - a person who spends money in an irresponsible way
 
-- **congenial** - (of a person) pleasant because of a personality, qualities, or interests that are similar to one's own; (of a thing) pleasant or agreeable because suited to one's taste or inclination
+29. **taciturn** - saying little
 
-    > *I was working with a bunch of very congenial people*
-    >
-    > - **LIKE-MINDED**, compatible, kindred, well suited, easy to get along with; **COMPANIONABLE**, sociable, sympathetic, comradely, convivial, neighborly, hospitable, genial, personable, agreeable, friendly, pleasant, likable, kindly, pleasing, amiable, nice, good-natured; **FRENCH** sympathique; **ITALIAN & SPANISH** simpatico. **ANTONYMS** disagreeable, incompatible
-
-    > *Charles found himself in a fairly congenial environment*
-    >
-    > - **PLEASANT**, pleasing, to one's liking, agreeable, enjoyable, pleasurable, nice, appealing, engaging, satisfying, gratifying, fine, charming, delightful, relaxing, snug, welcoming, hospitable; suitable, suited, well suited, fit, appropriate, adapted, favorable. **ANTONYMS** unpleasant
-
-    > **DERIVATIVES**
-    >
-    > congeniality
-    >
-    > congenially
-
-- **conspicuous** - standing out so as to be clearly visible, attracting notice or attention
-
-    > **PHRASAL**
-    >
-    > conspicuous by one's absence - obviously not present in a place where one should be: **government members were conspicuous by their absence**
-
-    > - **EASILY SEEN**, clear, visible, standing out, noticeable, observable, discernible, perceptible, perceivable, detectable; **OBVIOUS**, manifest, evident, apparent, marked, pronounced, prominent, outstanding, patent, crystal clear, as clear as crystal; vivid, striking, dramatic, eye-catching, flagrant, ostentatious, overt, blatant, as plain as a pikestaff, staring one in the face, writ large, as plain as day; distinct, recognizable, distinguishable, unmistakable, inescapable; **informal** as plain as the nose on one's face, standing/ sticking out like a sore thumb, standing/sticking out a mile. **ANTONYMS** inconspicuous
-
-
-- **cursory** - hasty and therefore not through or detailed
-
-    > *a cursory inspection*
-    >
-    > - **PERFUNCTORY**, desultory, casual, superficial, token, uninterested, halfhearted, inattentive, unthinking, offhand, mechanical, automatic, routine; **HASTY**, quick, hurried, rapid, brief, passing, fleeting, summary, sketchy, careless, slapdash
-
-    > **DERIVATIVES**
-    >
-    > cursorily
-    >
-    > cursoriness
-
-    ###### WORD TOOLKIT (incomplete, cursory, vague)
-
-    > incomplete information, incomplete picture, incomplete knowledge, incomplete work, incomplete sentence
-
-    > cursory glance, cursory examination, cursory reading, cursory reading, cursory inspection, cursory investigation
-
-    > vague notion, vague memory, vague promises, vague reference, vague answers
-
-
-
-- **daunting** - difficult to deal with, discourage through fear
-
-- **deify** - worship or regard as a god
-
-- **didactic** - instructive, particularly so as to appear patronizing
-
-- **disseminate** - spread widely
-
-    14. **feasible** - possible to do easily or conveniently
-
-    15. **flout** - openly disregard, mock, scoff
-
-    16. **homogeneous** - of the same kind
-
-    17. **humdrum** - lacking excitement or variety; boringly monotonous
-
-    18. **insipid** - tasteless, lacking interest
-
-    19. **loquacious** - talkative
-
-    20. **misanthropic** - having or showing dislike of other people
-
-    21. **misnomer** - a wrong or inaccurate name or designation
-
-    22. **negligent** - failing to take proper care over something
-
-    23. **obsequious** - obedient to an excessive or servile degree
-
-    24. **placate** - make less angry
-
-    25. **proclivity** - a tendency to choose or do something regularly
-
-    26. **puerile** - childishly silly
-
-    27. **quixotic** - extremely idealistic, unrealistic, impractical
-
-    28. **spendthrift** - a person who spends money in an irresponsible way
-
-    29. **taciturn** - saying little
-
-    30. **wary** - feeling or showing caution about possible dangers
+30. **wary** - feeling or showing caution about possible dangers
 
 ### group 2
 
