@@ -8,7 +8,7 @@
 >
 > *a beautiful stream which abounded with trout and eels*
 >
-> - BE FULL WITH, overflow with, teem with, be packed with, be crowded with, be thronged with, be jammed with, be alive with, be overrun with, swarm with, bristle with, be bristling with, be infested with, be thick with;
+> - **BE FULL WITH**, overflow with, teem with, be packed with, be crowded with, be thronged with, be jammed with, be alive with, be overrun with, swarm with, bristle with, be bristling with, be infested with, be thick with;
 > **informal** be crawling with, be lousy with, be stuffed with, be jam-packed with, be chockablock with, be chock-full of;
 > **British informal** be heaving with;
 > **rear** pullulate with
