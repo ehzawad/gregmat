@@ -57,7 +57,7 @@
 
     > *the capricious workings of fate*
     >
-    > - **FICKLE**, inconstant, changeable, variable, unstable, mercurial, volatile, erratic, vacillating, irregular, inconsistent, fitful, arbitrary; impulsive, temperamental, wild, ungovernable; whimsical, fanciful, flighty,wayward, quirky, faddish; unpredictable, random, chance, haphazard. **ANTONYMS** stable, consistent
+    > - **FICKLE**, inconstant, changeable, variable, unstable, mercurial, volatile, erratic, vacillating, irregular, inconsistent, fitful, arbitrary; impulsive, temperamental, wild, ungovernable; whimsical, fanciful, flighty, wayward, quirky, faddish; unpredictable, random, chance, haphazard. **ANTONYMS** stable, consistent
 
     > **DERIVATIVES**
     >
