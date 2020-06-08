@@ -2,62 +2,62 @@
 
 - **abound** - exist in large numbers or amounts
 
-> **PHRASAL**
->
-> abound with (abound in)
->
-> *a beautiful stream which abounded with trout and eels*
->
-> - **BE FULL WITH**, overflow with, teem with, be packed with, be crowded with, be thronged with, be jammed with, be alive with, be overrun with, swarm with, bristle with, be bristling with, be infested with, be thick with;
-> **informal** be crawling with, be lousy with, be stuffed with, be jam-packed with, be chockablock with, be chock-full of;
-> **British informal** be heaving with;
-> **rear** pullulate with
+    > **PHRASAL**
+    >
+    > abound with (abound in)
+    >
+    > *a beautiful stream which abounded with trout and eels*
+    >
+    > - **BE FULL WITH**, overflow with, teem with, be packed with, be crowded with, be thronged with, be jammed with, be alive with, be overrun with, swarm with, bristle with, be bristling with, be infested with, be thick with;
+    > **informal** be crawling with, be lousy with, be stuffed with, be jam-packed with, be chockablock with, be chock-full of;
+    > **British informal** be heaving with;
+    > **rear** pullulate with
 
->**DERIVATIVES**
->
-> abounding(adjective) - abundant
+    >**DERIVATIVES**
+    >
+    > abounding(adjective) - abundant
 
 - **amorphous** - without a clearly defined shape or form
 
-> *an amorphous gray mass which proved to be mashed potato*
->
-> - **SHAPELESS**, formless, unformed, unshaped, structureless, unstructured, indeterminate, indefinite, vague, nebulous  **ANTONYMS** shaped; definite
+    > *an amorphous gray mass which proved to be mashed potato*
+    >
+    > - **SHAPELESS**, formless, unformed, unshaped, structureless, unstructured, indeterminate, indefinite, vague, nebulous  **ANTONYMS** shaped; definite
 
->**DERIVATIVES**
->
-> amorphously
->
-> amorphousness
+    >**DERIVATIVES**
+    >
+    > amorphously
+    >
+    > amorphousness
 
 - **austere** - strict in manner, having no comforts or luxuries
 
-> *he was a conscientious and outwardly austere man*
->
-> - **SEVERE**, stern, strict, harsh, unfeeling, stony, steely, flinty, dour, grim, cold, frosty, frigid, icy, chilly, unemotional, unfriendly, formal, stiff, stuffy, reserved, remote, distant, aloof, forbidding, mean-looking, grave, solemn, serious, unsmiling, unsympathetic, unforgiving, uncharitable; hard, rigorous, stringent, unyielding, unbending, unrelenting, inflexible, illiberal, no-nonsense; **informal** hard-boiled, hard-nosed. **ANTONYMS** genial
+    > *he was a conscientious and outwardly austere man*
+    >
+    > - **SEVERE**, stern, strict, harsh, unfeeling, stony, steely, flinty, dour, grim, cold, frosty, frigid, icy, chilly, unemotional, unfriendly, formal, stiff, stuffy, reserved, remote, distant, aloof, forbidding, mean-looking, grave, solemn, serious, unsmiling, unsympathetic, unforgiving, uncharitable; hard, rigorous, stringent, unyielding, unbending, unrelenting, inflexible, illiberal, no-nonsense; **informal** hard-boiled, hard-nosed. **ANTONYMS** genial
 
-> *I still enjoy this austere and disciplined life*
->
-> - **STRICT**, self-denying, self-abnegating, moderate, temperate, sober, simple, frugal, spartan, restrained, self-restrained, self-disciplined, nonindulgent, ascetic, puritanical, self-sacrificing, hair-shirt, abstemious, abstinent, celibate, chaste, continent; moral, upright. **ANTONYMS** immoderate
+    > *I still enjoy this austere and disciplined life*
+    >
+    > - **STRICT**, self-denying, self-abnegating, moderate, temperate, sober, simple, frugal, spartan, restrained, self-restrained, self-disciplined, non-indulgent, ascetic, puritanical, self-sacrificing, hair-shirt, abstemious, abstinent, celibate, chaste, continent; moral, upright. **ANTONYMS** immoderate
 
-> *the buildings around me were understated and austere*
->
-> - **PLAIN**, simple, basic, functional, modest, unadorned, undecorated, unornamented, unembellished, unostentatious, unfurnished, uncluttered, unfussy, without frills, subdued, muted, restrained; STARK, bleak, bare, bald, clinical, somber, severe, spartan, ascetic; **informal** no frills. **ANTONYMS** ornate
+    > *the buildings around me were understated and austere*
+    >
+    > - **PLAIN**, simple, basic, functional, modest, unadorned, undecorated, unornamented, unembellished, unostentatious, unfurnished, uncluttered, unfussy, without frills, subdued, muted, restrained; STARK, bleak, bare, bald, clinical, somber, severe, spartan, ascetic; **informal** no frills. **ANTONYMS** ornate
 
 - **belie** - fail to give true impression of something, contradict, fail to justify, betray
 
-> *the expression in his eyes belied his easy manner*
->
-> - **CONTRADICT**, be at odds with, call into questions, give the lie to, show/prove to be false; disprove, debunk, discredit, explode, knock the bottom out of; **informal** shoot full of holes. **ANTONYMS** testify to
+    > *the expression in his eyes belied his easy manner*
+    >
+    > - **CONTRADICT**, be at odds with, call into questions, give the lie to, show/prove to be false; disprove, debunk, discredit, explode, knock the bottom out of; **informal** shoot full of holes. **ANTONYMS** testify to
 
-> *he made a lighthearted speech which belied his deep disappointment*
->
-> - **CONCEAL**, cover, disguise, misrepresent, falsify, distort, wrap, put a spin on, color; give a false idea of, give a false account of. **ANTONYMS** reveal
+    > *he made a lighthearted speech which belied his deep disappointment*
+    >
+    > - **CONCEAL**, cover, disguise, misrepresent, falsify, distort, wrap, put a spin on, color; give a false idea of, give a false account of. **ANTONYMS** reveal
 
 - **capricious** - sudden change of mood, unpredictable, fickle
 
-> *the capricious workings of fate*
->
-> - **FICKLE**, inconstant, changeable, variable, unstable, mercurial, volatile, erratic, vacillating, irregular, inconsistent, fitful, arbitrary; impulsive, temperamental, wild, ungovernable; whimsical, fanciful, flighty,wayward, quirky, faddish; unpredictable, random, chance, haphazard. **ANTONYMS** stable, consistent
+    > *the capricious workings of fate*
+    >
+    > - **FICKLE**, inconstant, changeable, variable, unstable, mercurial, volatile, erratic, vacillating, irregular, inconsistent, fitful, arbitrary; impulsive, temperamental, wild, ungovernable; whimsical, fanciful, flighty,wayward, quirky, faddish; unpredictable, random, chance, haphazard. **ANTONYMS** stable, consistent
 
 
 > **DERIVATIVES**
@@ -68,37 +68,37 @@
 
 - **cerebral** - of the cerebrum of the brain, intellectual rather than emotional or physical
 
-> *the cerebral cortex*
->
-> *photography is a cerebral process*
+    > *the cerebral cortex*
+    >
+    > *photography is a cerebral process*
 
-> **DERIVATIVES**
->
-> cerebrally
+    > **DERIVATIVES**
+    >
+    > cerebrally
 
 - **congenial** - (of a person) pleasant because of a personality, qualities, or interests that are similar to one's own; (of a thing) pleasant or agreeable because suited to one's taste or inclination
 
-> *I was working with a bunch of very congenial people*
->
-> - **LIKE-MINDED**, compatible, kindred, well suited, easy to get along with; COMPANIONABLE, sociable, sympathetic, comradely, convivial, neighborly, hospitable, genial, personable, agreeable, friendly, pleasant, likable, kindly, pleasing, amiable, nice, good-natured; **FRENCH** sympathique; **ITALIAN & SPANISH** simpatico. **ANTONYMS** disagreeable, incompatible
+    > *I was working with a bunch of very congenial people*
+    >
+    > - **LIKE-MINDED**, compatible, kindred, well suited, easy to get along with; COMPANIONABLE, sociable, sympathetic, comradely, convivial, neighborly, hospitable, genial, personable, agreeable, friendly, pleasant, likable, kindly, pleasing, amiable, nice, good-natured; **FRENCH** sympathique; **ITALIAN & SPANISH** simpatico. **ANTONYMS** disagreeable, incompatible
 
-> *Charles found himself in a fairly congenial environment*
->
-> - **PLEASANT**, pleasing, to one's liking, agreeable, enjoyable, pleasurable, nice, appealing, engaging, satisfying, gratifying, fine, charming, delightful, relaxing, snug, welcoming, hospitable; suitable, suited, well suited, fit, appropriate, adapted, favorable. **ANTONYMS** unpleasant
+    > *Charles found himself in a fairly congenial environment*
+    >
+    > - **PLEASANT**, pleasing, to one's liking, agreeable, enjoyable, pleasurable, nice, appealing, engaging, satisfying, gratifying, fine, charming, delightful, relaxing, snug, welcoming, hospitable; suitable, suited, well suited, fit, appropriate, adapted, favorable. **ANTONYMS** unpleasant
 
-> **DERIVATIVES**
->
-> congeniality
->
-> congenially
+    > **DERIVATIVES**
+    >
+    > congeniality
+    >
+    > congenially
 
 - **conspicuous** - standing out so as to be clearly visible, attracting notice or attention
 
-> **PHRASAL**
->
-> conspicuous by one's absence - obviously not present in a place where one should be: **government members were conspicuous by their absence**
+    > **PHRASAL**
+    >
+    > conspicuous by one's absence - obviously not present in a place where one should be: **government members were conspicuous by their absence**
 
-> - **EASILY SEEN**, clear, visible, standing out, noticeable, observable, discernible, perceptible, perceivable, detectable; OBVIOUS, manifest, evident, apparent, marked, pronounced, prominent, outstanding, patent, crystal clear, as clear as crystal; vivid, striking, dramatic, eye-catching, flagrant, ostentatious, overt, blatant, as plain as a pikestaff, staring one in the face, writ large, as plain as day; distinct, recognizable, distinguishable, unmistakable, inescapable; **informal** as plain as the nose on one's face, standing/ sticking out like a sore thumb, standing/sticking out a mile. **ANTONYMS** inconspicuous
+    > - **EASILY SEEN**, clear, visible, standing out, noticeable, observable, discernible, perceptible, perceivable, detectable; OBVIOUS, manifest, evident, apparent, marked, pronounced, prominent, outstanding, patent, crystal clear, as clear as crystal; vivid, striking, dramatic, eye-catching, flagrant, ostentatious, overt, blatant, as plain as a pikestaff, staring one in the face, writ large, as plain as day; distinct, recognizable, distinguishable, unmistakable, inescapable; **informal** as plain as the nose on one's face, standing/ sticking out like a sore thumb, standing/sticking out a mile. **ANTONYMS** inconspicuous
 
 
 - **cursory** - hasty and therefore not through or detailed
@@ -111,39 +111,39 @@
 
 - **disseminate** - spread widely
 
-14. **feasible** - possible to do easily or conveniently
+    14. **feasible** - possible to do easily or conveniently
 
-15. **flout** - openly disregard, mock, scoff
+    15. **flout** - openly disregard, mock, scoff
 
-16. **homogeneous** - of the same kind
+    16. **homogeneous** - of the same kind
 
-17. **humdrum** - lacking excitement or variety; boringly monotonous
+    17. **humdrum** - lacking excitement or variety; boringly monotonous
 
-18. **insipid** - tasteless, lacking interest
+    18. **insipid** - tasteless, lacking interest
 
-19. **loquacious** - talkative
+    19. **loquacious** - talkative
 
-20. **misanthropic** - having or showing dislike of other people
+    20. **misanthropic** - having or showing dislike of other people
 
-21. **misnomer** - a wrong or inaccurate name or designation
+    21. **misnomer** - a wrong or inaccurate name or designation
 
-22. **negligent** - failing to take proper care over something
+    22. **negligent** - failing to take proper care over something
 
-23. **obsequious** - obedient to an excessive or servile degree
+    23. **obsequious** - obedient to an excessive or servile degree
 
-24. **placate** - make less angry
+    24. **placate** - make less angry
 
-25. **proclivity** - a tendency to choose or do something regularly
+    25. **proclivity** - a tendency to choose or do something regularly
 
-26. **puerile** - childishly silly
+    26. **puerile** - childishly silly
 
-27. **quixotic** - extremely idealistic, unrealistic, impractical
+    27. **quixotic** - extremely idealistic, unrealistic, impractical
 
-28. **spendthrift** - a person who spends money in an irresponsible way
+    28. **spendthrift** - a person who spends money in an irresponsible way
 
-29. **taciturn** - saying little
+    29. **taciturn** - saying little
 
-30. **wary** - feeling or showing caution about possible dangers
+    30. **wary** - feeling or showing caution about possible dangers
 
 ### group 2
 
