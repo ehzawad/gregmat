@@ -498,7 +498,7 @@
 
 1. **boorish** - rough and bad-mannered, coarse
 
-2. **brook** - a small stream
+2. **brook** - tolerate
 
 3. **circumspect** - wary, cautious
 
@@ -534,7 +534,7 @@
 
 19. **impetuous** - acting or done quickly and without thought or care
 
-20. **irascible** - having or showing a tendency to be easily agreed
+20. **irascible** - having or showing a tendency to be easily angry
 
 21. **mercenary** - making money at the expense of ethics/ a professional soldier hired to serve in a foreign army
 
