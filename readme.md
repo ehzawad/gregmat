@@ -881,7 +881,7 @@ of **skin** cells and other body tissues
 
 6. **consensus** - a general agreement
 
-7. **distant** - pull or twist out of shape/give an misleading or false account of or impression of
+7. **distort** - pull or twist out of shape/give an misleading or false account of or impression of
 
 8. **divergent** - tending to be different or develop in different directions
 
