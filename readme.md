@@ -1539,7 +1539,7 @@ of **skin** cells and other body tissues
 
 25. **tedious** - too long, slow or dull
 
-26. **rigor** - a sudden feeling of cold with shivering accompanied by a rise in temperature
+26. **rigor** - the quality of being extremely thorough and careful
 
 27. **articulate** - ability to speak fluently/ jointed segments
 
