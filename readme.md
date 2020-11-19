@@ -927,7 +927,7 @@ of **skin** cells and other body tissues
 
 29. **virulent** - (of a disease or poison) extremely severe or harmful in its effects/ bitterly hostile
 
-30. **violate** - (of a substance) easily evaporated at normal temperatures
+30. **volatile** - (of a substance) easily evaporated at normal temperatures
 / liable to change rapidly and unpredictably, especially for the worse
 
 ### group 16
