@@ -778,7 +778,7 @@
 
 17. **illusory** - based on illusion
 
-18. **invidious** - unpleasant, illusion
+18. **invidious** - unpleasant, unfair
 
 19. **lethargic** - sluggish, lazy
 
