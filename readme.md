@@ -1736,3 +1736,64 @@ of **skin** cells and other body tissues
 
 30. **substantiate** - prove; show to be true; give substance to; support; justify; vindicate; corroborate; endorse; give credence to; vouch for, attest to
 
+### group 29
+
+1. **propitious** - giving or indicating a good chance of success; favorable
+
+2. **ominous** - giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious
+
+3. **detente** - the easing of hostality or strained relations, especially between countries
+
+4. **outlandish** - looking or sounding bizarre or unfamiliar
+
+5. **abscond** - leave hurriedly and secrectly, typically to avoid detection of or arrest for an unlawful action such as theft; run away; flee; make a break for it; disappear; sneak away
+
+6. **imbroglio** - an extremely confused, complicated, or embrassing situation
+
+7. **languish** - weaken, deteriorate, waste away, be disregarded, experience hardship
+
+8. **nimble** - quick and light in movement or action; agile; (of the mind) quick to comprehend
+
+9. **prurient** - having or encouraging an excessive interest in sexual matters
+
+10. **bawdy** - dealing with sexual matters in a comical way; humorously indecent
+
+11. **croon** - hum or sing in a soft, low voice, especially in a sentimental manner
+
+12. **aspersion** - an attack on the reputation or integrity of someone or something
+
+13. **nadir** - the lowest point in the fortunes of a persion or organization
+
+14. **dowdy** - (of a person or their clothes) unfashionable and without style in appearance (typically used of a woman)
+
+15. **sadistic** - deriving pleasure from inflicting pain, suffering, or humiliation on others
+
+16. **echelon** - level, rank, position(MILITARY)
+
+17. **depose** - remove from office suddenly and forcefully; (LAW) testify to or give (evidence) on oath, typically in a written statement
+
+18. **apogee** - the highest point in the development of something; a climax or culmination
+
+19. **ennui** - a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement
+
+20. **collude** - cooperate in a secret or unlawful way in order to deceive or gain an advantage over others
+
+21. **conviction** - declaration (or pronouncement) of guilt, sentence, judgement; a firmly held belief, the quality of showing that one is firmly convinced of what one believes or says 
+
+22. **conflagration** - an extensive fire which destroys a great deal of land or property
+
+23. **chagrin** - distress or embarrassment at having failed or been humiliated 
+
+24. **contretemps** - a minor dispute or disagreement; an unexpected and unfortunate occurrence 
+
+25. **commiserate** - offer sympathy to, be moved by, condole with
+
+26. **zenith** - the time at which something is most powerful or successful 
+
+27. **fulcrum** - the point on which a lever rests or is supported and on which it pivots; a thing that plays a central or essential role in an activity, event, or situation
+
+28. **expatiate** - speak or write at length or in detail
+
+29. **jocund** - cheerful and lighthearted
+
+30. **fraught** - (fraught with) (of a situation or course of action) filled with or likely to result in (something undesirable); causing or affected by anxiety or stress
