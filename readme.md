@@ -1745,13 +1745,13 @@ of **skin** cells and other body tissues
 
 2. **ominous** - giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious
 
-3. **detente** - the easing of hostality or strained relations, especially between countries
+3. **detente** - the easing of hostility or strained relations, especially between countries
 
 4. **outlandish** - looking or sounding bizarre or unfamiliar
 
-5. **abscond** - leave hurriedly and secrectly, typically to avoid detection of or arrest for an unlawful action such as theft; run away; flee; make a break for it; disappear; sneak away
+5. **abscond** - leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action such as theft; run away; flee; make a break for it; disappear; sneak away
 
-6. **imbroglio** - an extremely confused, complicated, or embrassing situation
+6. **imbroglio** - an extremely confused, complicated, or embarrassing situation
 
 7. **languish** - weaken, deteriorate, waste away, be disregarded, experience hardship
 
@@ -1765,7 +1765,7 @@ of **skin** cells and other body tissues
 
 12. **aspersion** - an attack on the reputation or integrity of someone or something
 
-13. **nadir** - the lowest point in the fortunes of a persion or organization
+13. **nadir** - the lowest point in the fortunes of a person or organization
 
 14. **dowdy** - (of a person or their clothes) unfashionable and without style in appearance (typically used of a woman)
 
