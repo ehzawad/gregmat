@@ -1800,3 +1800,66 @@ of **skin** cells and other body tissues
 29. **jocund** - cheerful and lighthearted
 
 30. **fraught** - (fraught with) (of a situation or course of action) filled with or likely to result in (something undesirable); causing or affected by anxiety or stress
+
+
+### group 30
+
+1. **slovenly** - (appearance) messy and dirty; careless, excessively casual
+
+2. **factious** - divided, schismatic, argumentative
+
+3. **spurn** - reject with disdain or contempt
+
+4. **callow** - (of a young person) inexperienced and immature
+
+5. **flagrant** - (of something considered wrong or immoral) conspicuously or obviously offensive
+
+6. **remuneration** - payment; earnings
+
+7. **bravado** - a bold manner or a show of boldness intended to impress or intimidate
+
+8. **obstreperous** - noisy and difficult to control
+
+9. **temerity** - excessive confidence or boldness; audacity
+
+10. **odious** - extremely unpleasant; repulsive
+
+11. **deportment** - a person's behavior or manners
+
+12. **precocious** - advanced, ahead, old beyond one's years
+
+13. **abide** - continue; (abide by) - comply with
+
+14. **verve** - vigor, buoyancy
+
+15. **intrigue** - the secret planning of something illicit or detrimental
+
+16. **aberrant** - deviant, transgressing
+
+17. **fallow** - uncultivated, unplowed, inactive, dormant
+
+18. **tenuous** - slight, very slender or fine, thin, shaky, insubstantial
+
+19. **obdurate** - stubbornly refusing to change one's opinion or course of action
+
+20. **gratuitous** - uncalled for, unwarranted, given or done free of charge
+
+21. **indecorous** - improper, unseemly
+
+22. **soliloquy** - interior monologue
+
+23. **stolid** - impassive, calm, dull
+
+24. **capitulate** - surrender, give in, yield, concede defeat
+
+25. **extemporize** - improvise, ad lib
+
+26. **cogitate** -  think about, muse on
+
+27. **nominal** - token, tiny
+
+28. **plucky** - brave, intrepid
+
+29. **grovel** - crawl, behave obsequiously
+
+30. **feint** - bluff, ruse, expedient
