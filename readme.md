@@ -1863,3 +1863,129 @@ of **skin** cells and other body tissues
 29. **grovel** - crawl, behave obsequiously
 
 30. **feint** - bluff, ruse, expedient
+
+
+### group 31
+
+1. **crescendo** - peak
+
+2. **apprise** - inform or tell (someone)
+
+3. **extenuating** - (of a factor or situation) serving to lessen the seriousness of an offense
+
+4. **shirk** - avoid or neglect (a duty or responsibility)
+
+5. **ulterior** - unapparent; secondary; intentionally hidden
+
+6. **beguile** - Charm and enchant (someone), sometimes in a deceptive way
+
+7. **retaliate** - fight back
+
+8. **hapless** - unfortunate
+
+9. **voluble** - talkative, wordy
+
+10. **ponderous** - clumsy,  dull, awkward
+
+11. **obfuscate** - obscure, bewilder
+
+12. **pastiche** - imitation, mixture
+
+13. **frenetic** - frantic, wild
+
+14. **stanch** - stalwart, very loyal and committed in attitude
+
+15. **abrogate** - repudiate, revoke, repeal
+
+16. **sinecure** - easy job; soft option
+
+17. **surfeit** - excess
+
+18. **sinuous** - winding, curving; lithe, supple
+
+19. **callous** - heartless, unfeeling
+
+20. **sordid** - unsavory, vile, louche, base, debased
+
+21. **coddle** - pamper, cosset, mollycoddle
+
+22. **recluse** - hermit, ascetic, loner, solitary
+
+23. **aghast** - filled with horror or shock
+
+24. **perspicacious** - astute, perceptive, observant
+
+25. **fringe** - unconventional, unorthodox, peripheral, or extreme
+
+26. **rhapsody** - elation, euphoria, exultation
+
+27. **ossify** - become inflexible
+
+28. **boon** - blessing, godsend
+
+29. **serendipitous** - chance, accidental
+
+30. **immaculate** - unblemished, clean, perfect
+
+
+### group 32
+
+1. **depravity** - moral corruption, wickedness
+
+2. **indictment** - a sign something should be condemned
+
+3. **turbid** - murky
+
+4. **dilettante** - a person who cultivates an area of interest, without real commitment or knowledge)
+
+5. **rampant** - spreading unchecked
+
+6. **gregarious** - fond of company; sociable; social
+
+7. **paragon** - a perfect example or model
+
+8. **penurious** - extremely poor, poverty-stricken
+
+9. **malevolent** - wishing to do evil to others
+
+10. **effrontery** - impertinent behavior
+
+11. **indignant** - feeling or showing anger
+
+12. **remote** - faraway, detached or distant
+
+13. **patronize** - treat  condescendingly
+
+14. **abstruse** - difficult to understand
+
+15. **endow** - provide with a quality or asset
+
+16. **ineluctable** - unable to be resisted; inescapable
+
+17. **reprobate** - unprincipled; an immoral person
+
+18. **turgid** - swollen; inflated or bombastic
+
+19. **latitude** - freedom for action or thought
+
+20. **piquant** - having a sharp taste; intriguing
+
+21. **pacify** - decrease anger or agitation
+
+22. **caricature** - mock in an exaggerated way
+
+23. **encroach** - intrude on a person's territory
+
+24. **vacuous** - showing lack of thought
+
+25. **auxiliary** - providing additional help
+
+26. **inquisitive** - curious (positive connotation); prying (negative connotation)
+
+27. **mediate** - intervene to settle a dispute
+
+28. **occlude** - stop or close up an opening
+
+29. **entreat** - ask someone earnestly
+
+30. **levity** - humor, especially in serious matters
