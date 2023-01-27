@@ -1683,7 +1683,7 @@ of **skin** cells and other body tissues
 
 2. **gauche** - lacking ease or grace; unsophisticated and socially awkward; inelegant; ungainly
 
-3. **willy** - skilled at gaining an advantage, especially deceitfully; clever; shrewd, crafty
+3. **wily** - skilled at gaining an advantage, especially deceitfully; clever; shrewd, crafty
 
 4. **sophistry** - the use of fallacious arguments, especially with the intention of deceiving; specious arguments; fallacious argument; sophism; casuistry
 
