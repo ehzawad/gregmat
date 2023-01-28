@@ -1893,7 +1893,7 @@ of **skin** cells and other body tissues
 
 13. **frenetic** - frantic, wild
 
-14. **stanch** - stalwart, very loyal and committed in attitude
+14. **staunch** - stalwart, very loyal and committed in attitude
 
 15. **abrogate** - repudiate, revoke, repeal
 
